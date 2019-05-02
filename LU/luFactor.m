@@ -4,7 +4,7 @@
 %                                                         Bechara
 %                                                         MECH 105
 %Inputs:
-%   A: a square matrix of linear system coefficients
+%   A: square matrix of linear system coefficients
 %Ouputs:
 %   L: lower triangular matrix as a result of the LU factorization
 %   U: lower triangular matrix as a result of the LU factorization,
