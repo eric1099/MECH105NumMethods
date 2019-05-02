@@ -1,2 +1,3 @@
-## Simpson's Method
-This file contains the LU factorization algorithm. The first file is the function that is ran. The algorithm means to take an inputted matrix, set up the upper and lower triangular matrices used to factorize it, and keeps track fo the pivoting that took palce during the process. The second file is the test code that was used to run the function.
+## Simpson's Method Integration
+This file contains the Simpson's method algorithm for estimating the integral. The first file is the function that is ran. The algorithm means to take an inputted function of x and estimate its integral on an interval given, using the 1/3 Simpson's rule and the trapezoidal rule.
+The second file is the test code that was used to run the function.
